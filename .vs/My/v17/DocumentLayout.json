@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity project\\My\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|D:\\unity project\\My\\assets\\triangulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|solutionrelative:assets\\triangulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|D:\\unity project\\My\\assets\\objloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|solutionrelative:assets\\objloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|D:\\unity project\\My\\assets\\custommeshrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BC4D19-7F12-776E-430C-722644C8DD64}|Assembly-CSharp.csproj|solutionrelative:assets\\custommeshrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulator.cs",
+              "DocumentMoniker": "D:\\unity project\\My\\Assets\\Triangulator.cs",
+              "RelativeDocumentMoniker": "Assets\\Triangulator.cs",
+              "ToolTip": "D:\\unity project\\My\\Assets\\Triangulator.cs",
+              "RelativeToolTip": "Assets\\Triangulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:54:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMeshRenderer.cs",
+              "DocumentMoniker": "D:\\unity project\\My\\Assets\\CustomMeshRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomMeshRenderer.cs",
+              "ToolTip": "D:\\unity project\\My\\Assets\\CustomMeshRenderer.cs",
+              "RelativeToolTip": "Assets\\CustomMeshRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:39:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OBJLoader.cs",
+              "DocumentMoniker": "D:\\unity project\\My\\Assets\\OBJLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\OBJLoader.cs",
+              "ToolTip": "D:\\unity project\\My\\Assets\\OBJLoader.cs",
+              "RelativeToolTip": "Assets\\OBJLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:43:23.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
